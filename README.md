@@ -10,5 +10,3 @@ A tkinter-based music player that detects emotions and uses the YTMusic API to f
 - Searches for relevant music videos on YouTube using the YTMusic API based on the detected emotion.
 - Allows the user to control playback, such as play, pause, and a surprise mode that detects emotion.
 - Provides a user-friendly graphical interface using the tkinter library.
-
-jhhfjljg
